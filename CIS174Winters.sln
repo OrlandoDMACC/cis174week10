@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS174Winters", "CIS174Winters\CIS174Winters.csproj", "{B102DFD0-AAF4-40CC-9088-6E0A2B6D613F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMACC.CIS174.Test", "DMACC.CIS174.Test\DMACC.CIS174.Test.csproj", "{1C00B134-E1EC-46C6-B489-E5AECD6A6023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B102DFD0-AAF4-40CC-9088-6E0A2B6D613F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B102DFD0-AAF4-40CC-9088-6E0A2B6D613F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B102DFD0-AAF4-40CC-9088-6E0A2B6D613F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B102DFD0-AAF4-40CC-9088-6E0A2B6D613F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C00B134-E1EC-46C6-B489-E5AECD6A6023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C00B134-E1EC-46C6-B489-E5AECD6A6023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C00B134-E1EC-46C6-B489-E5AECD6A6023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C00B134-E1EC-46C6-B489-E5AECD6A6023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F66392-F7E1-4BE4-BE85-1EE269FD5F05}
+	EndGlobalSection
+EndGlobal
